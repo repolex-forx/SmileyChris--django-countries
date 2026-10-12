@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/SmileyChris/django-countries/commit/a6462d30fa70992aa38a6c9af9a4ad9c88c41ae2",
       "git:hexsha": "a6462d30fa70992aa38a6c9af9a4ad9c88c41ae2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v9.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v9.1.0",
+      "repolex:parsedAt": "2026-10-12T20:47:11.957860+00:00"
     },
     {
       "@id": "https://repolex.ai/r/SmileyChris/django-countries/commit/a6ad4320bf5bef375cca5905458ab2e4338a0a9e",
